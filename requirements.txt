@@ -1,1 +1,6 @@
 kaggle_environments
+ipython
+requests
+numpy
+jupyter
+jupyterlab
